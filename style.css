@@ -1,0 +1,9 @@
+.circle{
+  width:20px;
+  height:20px;
+  border:1px solid #333;
+  border-radius:50%;
+}
+.c1.color{ background:#F44336; }
+.c2.color{ background:#FFC107; }
+.c3.color{ background:#4CAF50; }
